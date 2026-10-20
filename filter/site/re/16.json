@@ -1,5 +1,8 @@
 [
+  "rectify-app.site",
   "rectifyconn.site",
+  "rectifycore.site",
   "rectifynode.site",
+  "resourcedex.site",
   "resyncvault.site"
 ]

@@ -1,7 +1,9 @@
 [
   "claim-doodles.app",
+  "claim-kinetiq.app",
   "claim-zignaly.app",
   "claims-falcon.app",
   "claims-ripple.app",
+  "claims-stable.app",
   "claims-standx.app"
 ]
