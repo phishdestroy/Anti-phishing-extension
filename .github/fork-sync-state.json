@@ -1,0 +1,8 @@
+{
+  "checked_at": "2026-10-27T11:28:33.868130+00:00",
+  "upstream": "codeesura/Anti-phishing-extension",
+  "upstream_branch": "main",
+  "upstream_commit": "11a1311efbad1c68c3a933a253fd249f4c7ffaa9",
+  "version": 1,
+  "workflow_policy": "preserve fork workflows; never import upstream workflows"
+}
